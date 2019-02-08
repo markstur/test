@@ -1,5 +1,19 @@
 # Test numbers
 
+Task list
+
+- [ ] Sign in to your IBM Cloud Private for Data web client.
+- [ ] Use the left menu's `Collect` drop-down list and click on `My data`.
+- [ ] Click on the `Databases` tab.
+- [ ] You should see a Db2 Warehouse tile with a status of `Available`.
+- [ ] Click on the action menu (vertical 3 dots) and select `Open`.
+- [ ] Select Load.
+- [ ] Select the CSV file to load from your local file system and click Next
+- [ ] Select or create the schema to use for the data.
+- [x] Select or create the table to use for the data.
+- [ ] Click Next.
+
+
 1. one
    1. a
    1. b
