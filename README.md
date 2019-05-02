@@ -2,8 +2,24 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19vaot75JCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## More learning about Assistant
 
-<!-- {% include youtubePlayer.html id=19vaot75JCY %} -->
+Now that you're awesome check out these other videos
+
+### Versions!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDolnBxvcZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Intent Recommendations
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64h59KqDY98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Search Skill
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZcgGf8J2Cfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+{% include youtubePlayer.html id=19vaot75JCY %}
 
 
 
