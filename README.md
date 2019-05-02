@@ -1,6 +1,11 @@
 # Test Videos
 
-{% include youtubePlayer.html id=19vaot75JCY %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19vaot75JCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!-- {% include youtubePlayer.html id=19vaot75JCY %} -->
+
+
 
 
 # Test numbers
