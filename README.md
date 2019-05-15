@@ -1,3 +1,22 @@
+
+# Test collapse...
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
+
+
 # Test Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19vaot75JCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
